@@ -1,0 +1,8 @@
+platform :ios, '8.0' #手机的系统
+
+target 'tableView' do    
+    pod 'AFNetworking'
+    pod 'ReactiveCocoa', '~> 2.5’
+    pod 'Masonry'
+    pod 'MJExtension', '~> 3.0.13'
+end
